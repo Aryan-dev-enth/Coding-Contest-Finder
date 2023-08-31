@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.container{
+    margin-top: 50px;
+    width: 100vw;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    margin:10px;
+}
